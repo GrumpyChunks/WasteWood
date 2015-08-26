@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wastewood",
+  "name": "WasteWood",
+  "description": "Allows a player to find waste wood (sticks), when mining gravel, sand and soil",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WalterWeight"],
+  "credits": "WalterWeight",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
